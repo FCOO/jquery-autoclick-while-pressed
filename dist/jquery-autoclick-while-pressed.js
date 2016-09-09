@@ -15,6 +15,8 @@
 */
 
 (function ($) {
+    'use strict';
+
 	$.fn.autoclickWhilePressed = function (userOptions) {
 		var interval = null;
 		var initialDelayTimeout = null;

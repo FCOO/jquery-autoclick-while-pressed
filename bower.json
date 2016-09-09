@@ -1,0 +1,31 @@
+{
+  "name": "jquery-autoclick-while-pressed",
+  "version": "1.0.0",
+  "homepage": "https://github.com/FCOO/jquery-autoclick-while-pressed",
+  "authors": [
+    "Silviu Bogan"
+  ],
+  "description": "",
+  "main": [
+    "dist/jquery-autoclick-while-pressed.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FCOO/jquery-autoclick-while-pressed.git"
+  },
+  "dependencies": {
+    "jquery": "latest"
+  },
+  "devDependencies": {},
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "moduleType": [
+    "es6"
+  ]
+}
